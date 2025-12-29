@@ -7,7 +7,8 @@
 - [ ] Nationalism in Europe(learn and create mind-map)
 - [ ] Federalism(study and write main topics)\
 ## French
-- [ ] practice demonstratif, possessif, subjonctif(with help of notes)
+- [x] practice possesif ✅ 2025-12-29
+- [ ] practice subjonctif
 
 
 
