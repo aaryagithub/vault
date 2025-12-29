@@ -5,10 +5,10 @@
 - [ ] metals and non metals(study with notes)
 ## Social
 - [ ] Nationalism in Europe(learn and create mind-map)
-- [ ] Federalism(study and write main topics)\
+- [ ] Federalism(study and write main topics)
 ## French
 - [x] practice possesif ✅ 2025-12-29
-- [ ] practice subjonctif
+- [x] practice subjonctif ✅ 2025-12-29
 
 
 
