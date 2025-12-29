@@ -1,6 +1,6 @@
 #29/12/25
 ## Science
-- [ ] control and co-ord(study with notes)
+- [x] control and co-ord(study with notes) ✅ 2025-12-29
 - [ ] light(study with notes)
 - [ ] metals and non metals(study with notes)
 ## Social
