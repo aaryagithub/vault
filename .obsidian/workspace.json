@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#29/12/25",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +213,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d9f22ef6c894d6cd",
+  "active": "03c23db1ac4c519f",
   "lastOpenFiles": [
     "README.md",
     "a..md",
