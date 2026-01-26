@@ -12,3 +12,6 @@ $$
 $$
 x = 6 , x = -7
 $$
+
+
+This is from cachyos!
